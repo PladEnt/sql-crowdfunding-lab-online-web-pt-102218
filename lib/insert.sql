@@ -1,12 +1,12 @@
-INSERT INTO users (id, name, age) VALUES (1, 'Finnebar', 17), (2, 'Bear', 6), (3, 'Iguana', 4), (4, 'Alex', 33), 
-(5, 'Amanda', 24), (6, 'Sophie', 24), (7, 'Rosey', 9), (8, 'Victoria', 23), (9, 'Franz', 100), (10, 'Hermione', 30), 
-(11, 'Voldemort', 90), (12, 'Marisa', 24), (13, 'Swizzle', 4), (14, 'Sirius', 36), (15, 'Albus', 113), (16, 'Squid', 5), 
-(17, 'Whale', 6), (18, 'Pacha', 5), (19, 'Ena', 24), (20, 'Katie', 24);
+INSERT INTO users (id, name, age) VALUES (1, 'lilly', 17), (2, 'ceecee', 6), (3, 'joshua', 4), (4, 'jake', 33), 
+(5, 'bella', 24), (6, 'emily', 24), (7, 'charlie', 9), (8, 'eva', 23), (9, 'sherry', 100), (10, 'tommy', 30), 
+(11, 'thomas', 90), (12, 'gaven', 24), (13, 'eathen', 4), (14, 'Sera', 36), (15, 'pigger', 113), (16, 'figtree', 5), 
+(17, 'will', 6), (18, 'Patric', 5), (19, 'garit', 24), (20, 'kat', 24);
 
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES 
-(1, 'buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30'), 
-(2, 'the book on SQL', 'books', 20.00, '2013-01-01', '2014-01-01'), 
-(3, 'The next Rangers apprentice', 'books', 1000.00, '2013-05-30', '2015-05-30'), 
+(1, 'buy a guitar', 'music', 500.00, '2013-06-30', '2019-07-01'), 
+(2, 'the book on SQL', 'books', 20.00, '2013-01-01', '2018-01-07'), 
+(3, 'The next Rangers apprentice', 'books', 1000.00, '2016-05-03', '2019-05-03'), 
 (4, 'Animal shelter needs dog food', 'charity', 400.00, '2013-03-14', '2013-06-30'), 
 (5, 'Voldement needs a body', 'charity', 6000.00, '2013-03-20', '2013-09-20'), 
 (6, 'The next Inna-Gadda-Davida', 'music', 200.00, '2014-12-30', '2015-12-30'), 
